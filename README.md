@@ -1,49 +1,151 @@
-# Hi there 👋, I'm Muhammad Waleed Akram
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Muhammad%20Waleed%20Akram&fontSize=40&fontAlignY=35&animation=fadeIn"/>
+</p>
 
-I'm an **Electrical Engineering student** at **UET Lahore**  with a strong interest in **Computer Architecture, Digital System Design , VLSI , Risc-V ,AI/ML,and Embedded Systems**. I love discovering how things work, solving complex problems, and turning ideas into real-world applications.  
+<h2 align="center">⚡ Electrical Engineering Student | Computer Architecture Enthusiast | Open Source Contributor (500+ Contributions)</h2>
 
----
 
-##  Current Focus
-- Doing open-source contributions.
-- Designing **hardware accelerators** and exploring **architecture-independent computing**.
-- Exploring **Verilog/SystemVerilog** for digital design and simulation.
 
----
 
-##  Skills
-**Programming & Development:** Python, C,C++, SystemVerilog,Verilog 
-**Electrical & Electronics:** Circuit Analysis, DC Motor Control, Embedded Systems, Digital Design  
-**Tools & Platforms:** Git, GitHub, Makefiles, Verilator, CMake ,GTKWave, FPGA
+<!-- Animated Wave -->
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
----
+## 👨‍💻 About Me
 
-## Some of the Achievements and Courses
-- **Best Performer** of **RISC-V Hackathon 2025**
-- **Runner-up**, Logixplore Speed Programming Event (IEEE )  
-- Completed **CS 50 AI from Harvard**
-- Completed and built a full Computer by **Nand2Tetris**
-- Passed **HackerRank Python Basics** skill test  
-- Completed **Fiverr & Upwork Freelancing Course** (1.5 months)
-- Completed **WordPress Web development Course**
-- Active contributor in personal projects and GitHub repositories (**500+** contributions )
-- See my CV on Linkedin for all the projects and achievements
+```yaml
+name: Muhammad Waleed Akram
+education: Electrical Engineering - UET Lahore
+interests:
+  - Computer Architecture
+  - Hardware Acceleration
+  - Artificial Intelligence
+  - Embedded Systems
+  - Open Source Development
+current_focus:
+  - SystemVerilog & Digital Design
+  - Git & GitHub mastery
+  - Hardware / Software co-design
+  - Contributing to open source (EDA tools)
+mission: 
+  To explore the intersection of Computer Architecture,
+  AI, and Electrical Systems and build impactful technologies.
+```
 
----
+# Programming & Technical Skills
 
-##  Interests
-- **Computer Architecture & Hardware Design**
-- **Artificial Intelligence & Machine Learning** for electrical systems  
-- Open-source contributions in **digital design and EDA tools**  
-- **Web Development** and **freelancing**  
+## 💻 Programming Languages
 
----
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="45"/> </p>
 
-##  How to Reach Me
-- LinkedIn: [Muhammad Waleed Akram](https://www.linkedin.com/in/waleed-akram-362b66282/)   
-- Email: waleedakram059@gmail.com  
+Languages I use or have worked with:
 
----
+- C
 
-> “Curiosity drives innovation; understanding drives mastery.” ⚡
+- C++
 
+- Python
+
+- MATLAB
+
+- Bash
+
+- Assembly (RISC-V, ARM)
+
+# Hardware & Low-Level Development
+
+- Hardware Description Languages
+
+- SystemVerilog
+
+- Verilog
+
+- RISC-V Verification
+
+- Spike Simulator
+
+- C++ Testbenches
+
+# Data Science & Machine Learning
+
+Libraries and tools I have used:
+
+- NumPy
+
+- Pandas
+
+- Scikit-learn
+
+- Matplotlib
+
+- TensorFlow
+
+- Keras
+
+- Jupyter Notebooks
+
+Got Studied mostly from Harvard's CS50 AI
+
+
+
+#  EDA & Hardware Design Tools
+
+- Xilinx Vivado
+
+- Xilinx FPGA
+
+- ModelSim
+
+- QuestaSim
+
+- Verilator
+
+- GTKWave
+
+- Makefiles
+
+- Altium Designer
+
+# Development Tools
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/> </p>
+
+Other tools:
+
+- Spyder
+
+- VS Code
+
+- Vim
+
+- Linux / Windows (OS)
+
+<h2 align="center"> GitHub Activity</h2>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Waleed99i&theme=tokyonight"/> </p>
+
+
+
+<!-- GitHub Stats with 3D Contribution Graph -->
+<h2 align="center"> GitHub Statistics (Last year)</h2>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Waleed99i&show_icons=true&theme=tokyonight"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waleed99i&layout=compact&theme=tokyonight"/> </p>
+<!-- Animated Wave -->
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+
+
+
+<!-- Animated Wave -->
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
+# Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/waleed-akram-362b66282/
+
+GitHub: https://github.com/Waleed99i
+
+⚡ Curiosity drives innovation. Understanding builds mastery.
+
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> </p> ```
