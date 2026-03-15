@@ -133,7 +133,7 @@ public:
 
 <!-- GitHub Stats with 3D Contribution Graph -->
 <h2 align="center"> GitHub Statistics (Last year)</h2>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Waleed99i&show_icons=true&theme=tokyonight"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waleed99i&layout=compact&theme=tokyonight"/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Waleed99i&show_icons=true&theme=tokyonight"/> 
 
 
 <!-- Animated Wave -->
