@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Muhammad%20Waleed%20Akram&fontSize=40&fontAlignY=35&animation=fadeIn"/>
 </p>
 
-<h2 align="center" style="text-shadow: 2px 2px 5px #000;">⚡ Electrical Engineering Student | Computer Architecture Enthusiast | Open Source Contributor</h2>
+<h2 align="center" style="text-shadow: 2px 2px 5px #000;">⚡ Electrical Engineering Student | Computer Architecture Enthusiast | Open Source Contributor (500+ Contributions )</h2>
 
 <!-- Animated Wave -->
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
@@ -74,7 +74,7 @@ public:
 
 <p align="center">
 
-- SystemVerilog/Verilog
+- SystemVerilog / Verilog
 - RISC-V Verification
 - Spike Simulator
 - C++ Testbenches
