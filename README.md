@@ -21,7 +21,7 @@ I'm an **Electrical Engineering student** at **UET Lahore**  with a strong inter
 ## Some of the Achievements and Courses
 - **Best Performer** of **RISC-V Hackathon 2025**
 - **Runner-up**, Logixplore Speed Programming Event (IEEE )  
-- Completed **CS 50 AI from Harvard **
+- Completed **CS 50 AI from Harvard**
 - Completed and built a full Computer by **Nand2Tetris**
 - Passed **HackerRank Python Basics** skill test  
 - Completed **Fiverr & Upwork Freelancing Course** (1.5 months)
